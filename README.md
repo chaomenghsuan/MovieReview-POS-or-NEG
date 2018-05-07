@@ -1,5 +1,5 @@
 # MovieReview-POS-or-NEG
-NLP Semantic Analysis: machine learning model predicting positive or negative movie reviews
+NLP Sentiment Analysis: machine learning model predicting positive or negative movie reviews
 
 Features: unigrams
 
